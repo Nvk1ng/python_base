@@ -38,4 +38,3 @@ elif current_language == "fr_FR":
 print(msg)
 
 
-
